@@ -1,3 +1,5 @@
+Code Generator
+
 This project provides a code generation chatbot API that intelligently writes Python functions based on user prompts. The model was fine-tuned using LoRA adapters via PEFT on top of the CodeT5 model, using 150 high-quality Python code samples.
 
  
